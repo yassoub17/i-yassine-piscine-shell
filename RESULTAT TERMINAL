@@ -1,0 +1,996 @@
+Last login: Wed Nov 16 09:47:35 on ttys000
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % ls
+Applications	Desktop		Documents	Downloads	Library		Movies		Music		Pictures	Public		install.sh	piscine		piscine_shell
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % cd Desktop    
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls
+002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png		IMG_9478.jpeg							dossier sans titre
+1668071259020.jpeg						IMG_9479.PNG							exo 1
+2018101810-linkedin-cover-template-no-limits.jpg-840.jpg	IMG_9479.jpeg							ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+Capture d’écran 2022-09-27 à 23.16.44.png			IntroToMediaQueries-main					js ouboukhlik
+Capture d’écran 2022-09-27 à 23.17.07.png			Piscine00							quete js
+Capture d’écran 2022-09-27 à 23.30.11.png			RIB_30002_0000589934S16.pdf					unnamed.jpg
+Capture d’écran 2022-09-27 à 23.49.12.png			Unknown-1.jpeg
+EX00.code-workspace						Unknown.jpeg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls -l
+total 41912
+-rw-r--r--@  1 yassineouboukhlik  staff    116513  7 nov 13:00 002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png
+-rw-r--r--@  1 yassineouboukhlik  staff     59208 10 nov 10:14 1668071259020.jpeg
+-rw-r--r--@  1 yassineouboukhlik  staff     33680 10 nov 09:54 2018101810-linkedin-cover-template-no-limits.jpg-840.jpg
+-rw-r--r--@  1 yassineouboukhlik  staff    585724 27 sep 23:16 Capture d’écran 2022-09-27 à 23.16.44.png
+-rw-r--r--@  1 yassineouboukhlik  staff    589664 27 sep 23:17 Capture d’écran 2022-09-27 à 23.17.07.png
+-rw-r--r--@  1 yassineouboukhlik  staff    726348 27 sep 23:30 Capture d’écran 2022-09-27 à 23.30.11.png
+-rw-r--r--@  1 yassineouboukhlik  staff   1056999 27 sep 23:49 Capture d’écran 2022-09-27 à 23.49.12.png
+-rw-r--r--   1 yassineouboukhlik  staff       167 12 oct 10:57 EX00.code-workspace
+-rw-r--r--@  1 yassineouboukhlik  staff    179230 16 sep 09:28 IMG_9478.jpeg
+-rw-r--r--@  1 yassineouboukhlik  staff   3621006 17 sep 21:23 IMG_9479.PNG
+-rw-r--r--@  1 yassineouboukhlik  staff    179707  5 nov 01:55 IMG_9479.jpeg
+drwxr-xr-x@  7 yassineouboukhlik  staff       224 18 oct 10:10 IntroToMediaQueries-main
+drwxr-xr-x   8 yassineouboukhlik  staff       256 28 sep 11:18 Piscine00
+-rw-r--r--@  1 yassineouboukhlik  staff     68909  4 nov 14:39 RIB_30002_0000589934S16.pdf
+-rw-r--r--@  1 yassineouboukhlik  staff     11694 10 nov 10:02 Unknown-1.jpeg
+-rw-r--r--@  1 yassineouboukhlik  staff     11715 10 nov 10:01 Unknown.jpeg
+drwxr-xr-x  14 yassineouboukhlik  staff       448  3 nov 21:00 dossier sans titre
+-rw-r--r--   1 yassineouboukhlik  staff      4211 28 sep 12:39 exo 1
+-rw-------@  1 yassineouboukhlik  staff  13959824  5 oct 02:28 ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+-rw-r--r--@  1 yassineouboukhlik  staff      1978  8 nov 12:04 js ouboukhlik
+drwxr-xr-x   5 yassineouboukhlik  staff       160  8 nov 13:24 quete js
+-rw-r--r--@  1 yassineouboukhlik  staff    216781 21 oct 20:47 unnamed.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls
+002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png		IMG_9478.jpeg							dossier sans titre
+1668071259020.jpeg						IMG_9479.PNG							exo 1
+2018101810-linkedin-cover-template-no-limits.jpg-840.jpg	IMG_9479.jpeg							i-yassine-piscine-shell
+Capture d’écran 2022-09-27 à 23.16.44.png			IntroToMediaQueries-main					ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+Capture d’écran 2022-09-27 à 23.17.07.png			Piscine00							js ouboukhlik
+Capture d’écran 2022-09-27 à 23.30.11.png			RIB_30002_0000589934S16.pdf					quete js
+Capture d’écran 2022-09-27 à 23.49.12.png			Unknown-1.jpeg							unnamed.jpg
+EX00.code-workspace						Unknown.jpeg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls -l 
+total 41912
+-rw-r--r--@  1 yassineouboukhlik  staff    116513  7 nov 13:00 002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png
+-rw-r--r--@  1 yassineouboukhlik  staff     59208 10 nov 10:14 1668071259020.jpeg
+-rw-r--r--@  1 yassineouboukhlik  staff     33680 10 nov 09:54 2018101810-linkedin-cover-template-no-limits.jpg-840.jpg
+-rw-r--r--@  1 yassineouboukhlik  staff    585724 27 sep 23:16 Capture d’écran 2022-09-27 à 23.16.44.png
+-rw-r--r--@  1 yassineouboukhlik  staff    589664 27 sep 23:17 Capture d’écran 2022-09-27 à 23.17.07.png
+-rw-r--r--@  1 yassineouboukhlik  staff    726348 27 sep 23:30 Capture d’écran 2022-09-27 à 23.30.11.png
+-rw-r--r--@  1 yassineouboukhlik  staff   1056999 27 sep 23:49 Capture d’écran 2022-09-27 à 23.49.12.png
+-rw-r--r--   1 yassineouboukhlik  staff       167 12 oct 10:57 EX00.code-workspace
+-rw-r--r--@  1 yassineouboukhlik  staff    179230 16 sep 09:28 IMG_9478.jpeg
+-rw-r--r--@  1 yassineouboukhlik  staff   3621006 17 sep 21:23 IMG_9479.PNG
+-rw-r--r--@  1 yassineouboukhlik  staff    179707  5 nov 01:55 IMG_9479.jpeg
+drwxr-xr-x@  7 yassineouboukhlik  staff       224 18 oct 10:10 IntroToMediaQueries-main
+drwxr-xr-x   8 yassineouboukhlik  staff       256 28 sep 11:18 Piscine00
+-rw-r--r--@  1 yassineouboukhlik  staff     68909  4 nov 14:39 RIB_30002_0000589934S16.pdf
+-rw-r--r--@  1 yassineouboukhlik  staff     11694 10 nov 10:02 Unknown-1.jpeg
+-rw-r--r--@  1 yassineouboukhlik  staff     11715 10 nov 10:01 Unknown.jpeg
+drwxr-xr-x  14 yassineouboukhlik  staff       448  3 nov 21:00 dossier sans titre
+-rw-r--r--   1 yassineouboukhlik  staff      4211 28 sep 12:39 exo 1
+drwxr-xr-x   5 yassineouboukhlik  staff       160 16 nov 11:01 i-yassine-piscine-shell
+-rw-------@  1 yassineouboukhlik  staff  13959824  5 oct 02:28 ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+-rw-r--r--@  1 yassineouboukhlik  staff      1978  8 nov 12:04 js ouboukhlik
+drwxr-xr-x   5 yassineouboukhlik  staff       160  8 nov 13:24 quete js
+-rw-r--r--@  1 yassineouboukhlik  staff    216781 21 oct 20:47 unnamed.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % cd i-yassine-piscine-shell 
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % mkdir cover       
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	cover
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mkdir constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % mkdir sony nintendo microsoft sega
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd sony
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % mkdir consoles consoles portables
+mkdir: consoles: File exists
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % cd consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % mkdir ps4 ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd ps4
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % mkdir fifa 14 uncharted
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd ps5 
+cd: no such file or directory: ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd ps5
+cd: no such file or directory: ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % ls
+14		fifa		uncharted
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd consoles
+cd: no such file or directory: consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % ls destkop
+ls: destkop: No such file or directory
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % Desktop % cd -yassine-piscine-shell
+zsh: command not found: Desktop
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % ls
+fifa14		uncharted
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd ps5
+cd: no such file or directory: ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd ps5
+cd: no such file or directory: ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd cover
+cd: no such file or directory: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % ls
+fifa14		uncharted
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % 
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % 
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % 
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % ls
+ps4	ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % ls
+consoles	portables
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	cover
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % mkdir ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % mv cover ./ex00 
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd ex00 
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls cover 
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur 
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd sony 
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % ls
+consoles	portables
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % cd consoles 
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % ls
+ps4	ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % ls
+ps4	ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd ps4 
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % pwd
+/Users/yassineouboukhlik/Desktop/i-yassine-piscine-shell/ex00/cover/constructeur/sony/consoles/ps4
+yassineouboukhlik@MacBook-Pro-de-Yassine ps4 % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % pwd
+/Users/yassineouboukhlik/Desktop/i-yassine-piscine-shell/ex00/cover/constructeur/sony/consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd consoles
+cd: no such file or directory: consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine ps5 % mkdir farcry 6
+yassineouboukhlik@MacBook-Pro-de-Yassine ps5 % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % pwd   
+/Users/yassineouboukhlik/Desktop/i-yassine-piscine-shell/ex00/cover/constructeur/sony/consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % clear 
+
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % ls
+ps4	ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % ls
+consoles	portables
+yassineouboukhlik@MacBook-Pro-de-Yassine sony % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls 
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd .;
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls
+002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png		IMG_9478.jpeg							covers
+1668071259020.jpeg						IMG_9479.PNG							dossier sans titre
+2018101810-linkedin-cover-template-no-limits.jpg-840.jpg	IMG_9479.jpeg							exo 1
+Capture d’écran 2022-09-27 à 23.16.44.png			IntroToMediaQueries-main					i-yassine-piscine-shell
+Capture d’écran 2022-09-27 à 23.17.07.png			Piscine00							ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+Capture d’écran 2022-09-27 à 23.30.11.png			RIB_30002_0000589934S16.pdf					js ouboukhlik
+Capture d’écran 2022-09-27 à 23.49.12.png			Unknown-1.jpeg							quete js
+EX00.code-workspace						Unknown.jpeg							unnamed.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % cd covers 
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls
+002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png		IMG_9478.jpeg							covers
+1668071259020.jpeg						IMG_9479.PNG							dossier sans titre
+2018101810-linkedin-cover-template-no-limits.jpg-840.jpg	IMG_9479.jpeg							exo 1
+Capture d’écran 2022-09-27 à 23.16.44.png			IntroToMediaQueries-main					i-yassine-piscine-shell
+Capture d’écran 2022-09-27 à 23.17.07.png			Piscine00							ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+Capture d’écran 2022-09-27 à 23.30.11.png			RIB_30002_0000589934S16.pdf					js ouboukhlik
+Capture d’écran 2022-09-27 à 23.49.12.png			Unknown-1.jpeg							quete js
+EX00.code-workspace						Unknown.jpeg							unnamed.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls
+002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png		IMG_9478.jpeg							covers
+1668071259020.jpeg						IMG_9479.PNG							dossier sans titre
+2018101810-linkedin-cover-template-no-limits.jpg-840.jpg	IMG_9479.jpeg							exo 1
+Capture d’écran 2022-09-27 à 23.16.44.png			IntroToMediaQueries-main					i-yassine-piscine-shell
+Capture d’écran 2022-09-27 à 23.17.07.png			Piscine00							ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+Capture d’écran 2022-09-27 à 23.30.11.png			RIB_30002_0000589934S16.pdf					js ouboukhlik
+Capture d’écran 2022-09-27 à 23.49.12.png			Unknown-1.jpeg							quete js
+EX00.code-workspace						Unknown.jpeg							unnamed.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % mv covers ../        
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % l
+zsh: command not found: l
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % ls
+Applications	Documents	Library		Music		Public		install.sh	piscine_shell
+Desktop		Downloads	Movies		Pictures	covers		piscine
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % clear  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % ls
+Applications	Documents	Library		Music		Public		install.sh	piscine_shell
+Desktop		Downloads	Movies		Pictures	covers		piscine
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % mv covers ./Desktop 
+yassineouboukhlik@MacBook-Pro-de-Yassine ~ % cd Desktop 
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % ls
+002648499_1-edb672c7fe241fdffc2f7dddb3e9298a.png		IMG_9478.jpeg							covers
+1668071259020.jpeg						IMG_9479.PNG							dossier sans titre
+2018101810-linkedin-cover-template-no-limits.jpg-840.jpg	IMG_9479.jpeg							exo 1
+Capture d’écran 2022-09-27 à 23.16.44.png			IntroToMediaQueries-main					i-yassine-piscine-shell
+Capture d’écran 2022-09-27 à 23.17.07.png			Piscine00							ips-93B59EFC-2BB0-42CC-B320-743715309C32.mp4
+Capture d’écran 2022-09-27 à 23.30.11.png			RIB_30002_0000589934S16.pdf					js ouboukhlik
+Capture d’écran 2022-09-27 à 23.49.12.png			Unknown-1.jpeg							quete js
+EX00.code-workspace						Unknown.jpeg							unnamed.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % mv covers ./i-yassine-piscine-shell 
+yassineouboukhlik@MacBook-Pro-de-Yassine Desktop % cd i-yassine-piscine-shell 
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	covers		ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % mv covers ./ex00 
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd ex00 
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % mv ./covers/dc_jetgrindradio_10.jpg ./cover/constructeur/sega/      
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur 
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd sega 
+yassineouboukhlik@MacBook-Pro-de-Yassine sega % ls
+dc_jetgrindradio_10.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine sega % mkdir consoles dreamcast
+yassineouboukhlik@MacBook-Pro-de-Yassine sega % mv dreamcast ./consoles 
+yassineouboukhlik@MacBook-Pro-de-Yassine sega % ls
+consoles		dc_jetgrindradio_10.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine sega % mv dc_jetgrindradio_10.jpg ./consoles/dreamcast 
+yassineouboukhlik@MacBook-Pro-de-Yassine sega % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd .. 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd covers
+cd: no such file or directory: covers
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd exo00
+cd: no such file or directory: exo00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv playstation_4.unchartedthelostlegacy.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur					playstation_4.unchartedthelostlegacy.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv playstation_4.unchartedthelostlegacy.jpg constructeur/sony/consoles/ps4 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadoralive3.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_deadtorights.jpg
+dc_shenmueii_5.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+gameboy.pokmonred.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv playstation_5.farcry6.jpg ../cover       
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd cover
+cd: no such file or directory: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			playstation_5.farcry6.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv playstation_5.farcry6.jpg constructeur/sony/consoles/ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls 
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				ps4_fifa14.jpg					xbox_deadtorights.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_shenmueii_5.jpg				gc_supermariosunshine.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+gameboy.pokmonred.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty4.jpg				xbox_halo_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadoralive3.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv ps4_fifa14.jpg ../cover         
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cover
+zsh: command not found: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv ps4_fifa14.jpg constructeur/sony/consoles/ps4
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				gc_supermariosunshine.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cover
+zsh: command not found: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls 
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd nintendo
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % mkdir consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd nintendo
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % mkdir consoles portable 
+mkdir: consoles: File exists
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd nintendo
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % ls
+consoles	portable
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd console
+cd: no such file or directory: console
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd consoles
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % mkdir gamecub
+yassineouboukhlik@MacBook-Pro-de-Yassine consoles % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % ls
+consoles	portable
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls 
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls 
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				gc_supermariosunshine.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv gc_supermariosunshine.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gameboy.pokmonred.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonblue_eu.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+gb_pokemongreen_3.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+gb_pokemonyellow_au.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls 
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			gc_supermariosunshine.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv gc_supermariosunshine.jpg constructeur/nintendo/consoles/gamecub 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd nintendo
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % ls
+consoles	portable
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd portable
+yassineouboukhlik@MacBook-Pro-de-Yassine portable % mkdir gameboy
+yassineouboukhlik@MacBook-Pro-de-Yassine portable % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine nintendo % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gameboy.pokmonred.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonblue_eu.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+gb_pokemongreen_3.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+gb_pokemonyellow_au.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv gb_pokemonblue_eu.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls 
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur		gb_pokemonblue_eu.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv gb_pokemonblue_eu.jpg constructeur/nintendo/portable/gameboy 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % covers
+zsh: command not found: covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_deadtorights.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_defjamfightforny.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty4.jpg				xbox_halo2.jpg
+gameboy.pokmonred.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_halo_2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadoralive3.jpg				xbox_needforspeedunderground2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv gameboy.pokmonred.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..$
+cd: no such file or directory: ..$
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur		gameboy.pokmonred.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv gameboy.pokmonred.jpg 
+usage: mv [-f | -i | -n] [-hv] source target
+       mv [-f | -i | -n] [-v] source ... directory
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls   
+constructeur		gameboy.pokmonred.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv gameboy.pokmonred.jpg constructeur/nintendo/portable/gameboy 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd microsoft
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % mkdir console
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % ls
+console
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd microsoft
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % mkdir Xbox
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty4.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_halo_2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadoralive3.jpg				xbox_needforspeedunderground2.jpg
+gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_deadtorights.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % .cd
+zsh: command not found: .cd
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % ls
+README.md	ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd cover
+cd: no such file or directory: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd i-yassine-piscine-shell
+cd: no such file or directory: i-yassine-piscine-shell
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % pwd
+/Users/yassineouboukhlik/Desktop/i-yassine-piscine-shell
+yassineouboukhlik@MacBook-Pro-de-Yassine i-yassine-piscine-shell % cd ex00
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd microsoft
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % ls
+Xbox	console
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % cd console
+yassineouboukhlik@MacBook-Pro-de-Yassine console % mkdir xbox
+yassineouboukhlik@MacBook-Pro-de-Yassine console % mkdir xbox360
+yassineouboukhlik@MacBook-Pro-de-Yassine console % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine microsoft % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % ls
+microsoft	nintendo	sega		sony
+yassineouboukhlik@MacBook-Pro-de-Yassine constructeur % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty4.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_halo_2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadoralive3.jpg				xbox_needforspeedunderground2.jpg
+gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_deadtorights.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg ../cover
+mv: xbox_halo2.jpg: No such file or directory
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur				xbox_deadtorights.jpg			xbox_halo2.jpg				xbox_needforspeedunderground2.jpg
+xbox_deadoralive3.jpg			xbox_defjamfightforny.jpg		xbox_jetsetradiofuture_2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_needforspeedunderground2.jpg xbox_jetsetradiofuture_2.jpg constructeur/microsoft/console/xbox
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur	xbox_halo2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv xbox_halo2.jpg constructeur/microsoft/console/xbox
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_360.fableiii.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callfoduty3.jpg				xbox_halo_2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg
+gb_pokemongreen_3.jpg				playstation_4.watchdogs2.jpg			x360_callofduty4.jpg
+gb_pokemonyellow_au.jpg				playstation_5.assassinscreedvalhalla.jpg	x360_callofdutyblackopsii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls  
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			x360_callfoduty3.jpg		x360_callofduty2.jpg		x360_callofduty4.jpg		x360_callofdutyblackopsii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv x360_callofduty2.jpg x360_callofduty2
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			x360_callfoduty3.jpg		x360_callofduty2		x360_callofduty4.jpg		x360_callofdutyblackopsii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..  
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			x360_callfoduty3.jpg		x360_callofduty2		x360_callofduty4.jpg		x360_callofdutyblackopsii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cover x360_callofduty2 x360_callfoduty3.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg constructeur/microsoft/console/xbox360 
+zsh: command not found: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			x360_callfoduty3.jpg		x360_callofduty2		x360_callofduty4.jpg		x360_callofdutyblackopsii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv x360_callfoduty3.jpg constructeur/microsoft/console/xbox360 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			x360_callofduty2		x360_callofduty4.jpg		x360_callofdutyblackopsii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv x360_callofduty2 x360_callofduty4.jpg x360_callofdutyblackopsii.jpg constructeur/microsoft/console/xbox360 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gb_pokemonyellow_au.jpg				playstation_4.watchdogs2.jpg			xbox_halo_2.jpg
+dc_shenmue_eu.jpg				gbc_pokemongold.jpg				playstation_5.assassinscreedvalhalla.jpg
+dc_shenmueii_5.jpg				gc_mariokartdoubledash.jpg			playstation_5.residentevilvillage_.jpg
+gb_pokemongreen_3.jpg				playstation_4.assassinscreedodyssey.jpg		xbox_360.fableiii.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv xbox_360.fableiii.jpg xbox_halo_2.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur		xbox_360.fableiii.jpg	xbox_halo_2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv xbox_360.fableiii.jpg constructeur/microsoft/console/xbox360 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur	xbox_halo_2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv xbox_halo_2.jpg constructeur/microsoft/console/xbox
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers 
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg			gb_pokemongreen_3.jpg				gc_mariokartdoubledash.jpg			playstation_5.assassinscreedvalhalla.jpg
+dc_shenmue_eu.jpg				gb_pokemonyellow_au.jpg				playstation_4.assassinscreedodyssey.jpg		playstation_5.residentevilvillage_.jpg
+dc_shenmueii_5.jpg				gbc_pokemongold.jpg				playstation_4.watchdogs2.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv playstation_4.assassinscreedodyssey.jpg playstation_4.watchdogs2.jpg playstation_5.assassinscreedvalhalla.jpg playstation_5.residentevilvillage_.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % pwd
+/Users/yassineouboukhlik/Desktop/i-yassine-piscine-shell/ex00/covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur					playstation_4.watchdogs2.jpg			playstation_5.residentevilvillage_.jpg
+playstation_4.assassinscreedodyssey.jpg		playstation_5.assassinscreedvalhalla.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv playstation_4.assassinscreedodyssey.jpg playstation_4.watchdogs2.jpg constructeur/sony/consoles/ps4  
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % pwd
+/Users/yassineouboukhlik/Desktop/i-yassine-piscine-shell/ex00/cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur					playstation_5.assassinscreedvalhalla.jpg	playstation_5.residentevilvillage_.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv playstation_5.assassinscreedvalhalla.jpg playstation_5.residentevilvillage_.jpg constructeur/sony/consoles/ps5
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+dc_jetsetradio_eu_front.jpg	dc_shenmueii_5.jpg		gb_pokemonyellow_au.jpg		gc_mariokartdoubledash.jpg
+dc_shenmue_eu.jpg		gb_pokemongreen_3.jpg		gbc_pokemongold.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv dc_jetsetradio_eu_front.jpg dc_shenmueii_5.jpg dc_shenmue_eu.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % l
+zsh: command not found: l
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+gb_pokemongreen_3.jpg		gb_pokemonyellow_au.jpg		gbc_pokemongold.jpg		gc_mariokartdoubledash.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cover
+zsh: command not found: cover
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			dc_jetsetradio_eu_front.jpg	dc_shenmue_eu.jpg		dc_shenmueii_5.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv dc_jetsetradio_eu_front.jpg dc_shenmueii_5.jpg dc_shenmue_eu.jpg constructeur/sega/consoles/dreamcast 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd covers
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+gb_pokemongreen_3.jpg		gb_pokemonyellow_au.jpg		gbc_pokemongold.jpg		gc_mariokartdoubledash.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % mv gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg gc_mariokartdoubledash.jpg ../cover
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % ls
+yassineouboukhlik@MacBook-Pro-de-Yassine covers % cd ..
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % ls
+cover	covers
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd coveer
+cd: no such file or directory: coveer
+yassineouboukhlik@MacBook-Pro-de-Yassine ex00 % cd cover
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % ls
+constructeur			gb_pokemongreen_3.jpg		gb_pokemonyellow_au.jpg		gbc_pokemongold.jpg		gc_mariokartdoubledash.jpg
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % mv gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg gc_mariokartdoubledash.jpg constructeur/nintendo/portable/gameboy 
+yassineouboukhlik@MacBook-Pro-de-Yassine cover % 
